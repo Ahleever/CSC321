@@ -28,7 +28,7 @@ int main(void)
 	//printf("The value of x is %d \n", x);
 
 	int i = 0;
-	int arr[10] = {0};
+	int arr[10] = {0,10,20,30,40,50,60,70,80,100};
 	int counter = 1;
 
 	for(i = 0; i < 10; i++)
